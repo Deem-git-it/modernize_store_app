@@ -31,7 +31,7 @@ In just a few simple steps below, you can build and deploy the microservices to 
 
 Clone this github repository to your local workstation:
 ```
-git clone https://github.com/Mbaraka-git/modernize_store_app
+git clone https://github.com/Deem-git-it/modernize_store_app
 ```
 Change directory to the refactored microservices source code:
 ```
